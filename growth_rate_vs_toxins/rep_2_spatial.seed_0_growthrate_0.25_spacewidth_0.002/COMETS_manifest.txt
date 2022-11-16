@@ -1,0 +1,4 @@
+ModelFileName: ./producer.cmd
+ModelFileName: ./resistant.cmd
+ModelFileName: ./susceptible.cmd
+TotalBiomassFileName: totalbiomasslog_0x7f22a95d1da0
